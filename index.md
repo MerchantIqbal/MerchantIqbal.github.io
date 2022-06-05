@@ -8,6 +8,6 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 
 ### journal entries:
-1. [Reflection One](https://github.com/MerchantIqbal/MerchantIqbal.github.io/blob/add91c70d90384233265d8d1b82230ec5add9907/Reflections/partOneReflection.md)
+1. [Reflection One](Reflections/partOneReflection.md)
 2. [Reflection Two](https://github.com/MerchantIqbal/MerchantIqbal.github.io/blob/add91c70d90384233265d8d1b82230ec5add9907/Reflections/partTwoReflection.md)
 3. [Reflection Three]()
