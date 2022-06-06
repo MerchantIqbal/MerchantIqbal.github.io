@@ -9,7 +9,7 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 ### journal entries:
 1. [Reflection One](Reflections/partOneReflection.md)
-2. [Reflection Two](https://github.com/MerchantIqbal/MerchantIqbal.github.io/blob/add91c70d90384233265d8d1b82230ec5add9907/Reflections/partTwoReflection.md)
+2. [Reflection Two](Reflections/partTwoReflection.md)
 3. [Reflection Three]()
 
 [site two](https://github.com/MerchantIqbal/MerchantIqbal.github.io/blob/5a8dbd897964c958c34ba6a3a6125e918b6317de/pageTwo/pageTwo.md)
