@@ -7,7 +7,7 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 ![gif ftw](https://media.giphy.com/media/nXxOjZrbnbRxS/200w_d.gif)
 
 
-### journal entries:
+### Journal entries:
 1. [Reflection One](Reflections/partOneReflection.md)
 2. [Reflection Two](Reflections/partTwoReflection.md)
 3. [Reflection Three](Reflections/partThreeReflection.md)
