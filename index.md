@@ -10,6 +10,6 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 ### journal entries:
 1. [Reflection One](Reflections/partOneReflection.md)
 2. [Reflection Two](Reflections/partTwoReflection.md)
-3. [Reflection Three]()
+3. [Reflection Three](Reflections/partThreeReflection.md)
 
 [site two](pageTwo/pageTwo.md)
