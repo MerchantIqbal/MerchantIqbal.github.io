@@ -31,4 +31,3 @@
 [^2]: "Project Muse", Project Muse, 2022, https://muse-jhu-edu.proxy.library.carleton.ca/.
 [^3]: James Baker, "The Soft Digital History That Underpins My Book", Cradledincaricature, 2017, https://cradledincaricature.com/2017/05/24/the-soft-digital-history-that-underpins-my-book/.
 [^4]: James Baker, "All Posts By Jwbaker", Cradledincaricature, 2021, https://cradledincaricature.com/author/jwbaker/.
-
