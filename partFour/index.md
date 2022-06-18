@@ -1,6 +1,11 @@
+# Topic
+
+# CSV Table
+[CSV Table](femaleTrialsOldBailey-csv.csv)
+
 # Findings
-<img src="malesvsfemalesnames.png" alt="MalevsFemaleNames" width="5000" height="500">
-<img src="occupationfrequencybetweenmales&females.png" alt="OccupationFrequencyMalevsFemale" width="1050" height="300">
-<img src="Percentageofmalesandfemaleswithnames.png" alt="FemalevsMalePercentagewithFirstNames" width="1000" height="600">
+<img src="malesvsfemalesnames.png" alt="MalevsFemaleNames">
+<img src="occupationfrequencybetweenmales&females.png" alt="OccupationFrequencyMalevsFemale">
+<img src="Percentageofmalesandfemaleswithnames.png" alt="FemalevsMalePercentagewithFirstNames">
 
 # Discussion
