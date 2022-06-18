@@ -14,4 +14,4 @@ It reads [markdown](https://www.markdownguide.org/) and turns it into html.
 
 [site two](pageTwo/pageTwo.md)
 
-[Part Four Site]()
+[Part Four Site](partFour/index.md)
